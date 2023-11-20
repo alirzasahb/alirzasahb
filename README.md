@@ -3,10 +3,9 @@
 
 ### 📊 Github Stats
 <div>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirzasahb&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=alirzasahb&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=alirzasahb&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirzasahb&theme=tokyonight&hide_border=true" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=alirzasahb&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirzasahb&theme=tokyonight&hide_border=true&layout=compact" />
+
 </div>
 
 <!-- [![alirzasahb github stats](https://github-readme-stats.vercel.app/api?username=alirzasahb)](https://github.com/alirzasahb) -->
