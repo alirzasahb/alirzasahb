@@ -2,8 +2,8 @@
 
 ### 📊 Github Stats
 <div>
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=alirzasahb&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirzasahb&theme=tokyonight&hide_border=true&layout=compact" />
+    <img height=165 src="https://github-readme-stats.vercel.app/api?username=alirzasahb&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirzasahb&theme=tokyonight&hide_border=true&layout=compact" />
 
 </div>
 
