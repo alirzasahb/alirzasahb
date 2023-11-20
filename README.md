@@ -1,5 +1,4 @@
-## Hello There 👋, I'm Alireza 
-[![Github](https://img.shields.io/github/followers/alirzasahb?label=Follow&style=social)](https://github.com/alirzasahb)
+<!-- [![Github](https://img.shields.io/github/followers/alirzasahb?label=Follow&style=social)](https://github.com/alirzasahb) -->
 
 ### 📊 Github Stats
 <div>
